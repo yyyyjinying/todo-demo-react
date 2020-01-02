@@ -7,6 +7,7 @@ import './App.css';
 
 class App extends Component {
 	render() {
+		console.log(232);
 		return (
 			<div className="todo">
 		        <Search/>
