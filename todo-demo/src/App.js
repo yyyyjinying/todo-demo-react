@@ -8,6 +8,7 @@ import './App.css';
 class App extends Component {
 	render() {
 		console.log(232);
+		console.log(333);
 		return (
 			<div className="todo">
 		        <Search/>
