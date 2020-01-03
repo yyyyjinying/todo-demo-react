@@ -9,7 +9,7 @@ class App extends Component {
 	render() {
 		console.log(232);
 		console.log(333);
-		console.log('new-master');
+		console.log('new-master-111');
 		return (
 			<div className="todo">
 		        <Search/>
